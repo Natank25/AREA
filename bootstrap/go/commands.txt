@@ -1,0 +1,3 @@
+go mod init bootstrap/go/ (à la root)
+cd bootstrap/go/
+go run main.go
